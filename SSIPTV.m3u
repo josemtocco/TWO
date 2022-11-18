@@ -1,0 +1,1708 @@
+#EXTM3U
+#EXTINF:60,tvg-id="ANIME TV LEGENDADO" tvg-name="ANIME TV LEGENDADO" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="TWO BR" - ANIME TV LEGENDADO
+#EXTVLCOPT:network-caching=1000
+https://alanza.iptv2022.com/ANIME_TV/tracks-v1a1/mono.m3u8
+#EXTINF:0,tvg-id="RETRO CARTOON" tvg-name="RETRO CARTOON" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="TWO BR" - RETRO CARTOON
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w799741459.m3u8
+#EXTINF:0,tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="TWO BR" - CARTOON NETWORK
+#EXTVLCOPT:network-caching=1000
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-480p.m3u8
+#EXTINF:0,tvg-id="JETSONS" tvg-name="JETSONS" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="TWO BR" - JETSONS
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:0,tvg-id="JETSONS" tvg-name="JETSONS" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="TWO BR" - JETSONS
+#EXTVLCOPT:network-caching=1000
+https://alanza.iptv2022.com/JETSONS_TV/tracks-v1a1/mono.m3u8
+#EXTINF:0,tvg-id="GOSPEL CARTOON" tvg-name="GOSPEL CARTOON" tvg-logo="http://printv.esy.es/server/Cine%20Sky.png" group-title="TWO BR" - GOSPEL CARTOON 
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
+#EXTINF:0,tvg-id="BONS TEMPOS" tvg-name="BONS TEMPOS" tvg-logo="https://tvonline.fm/wp-content/uploads/2021/06/bons-tempos.jpeg" group-title="TWO BR" - BONS TEMPOS
+#EXTVLCOPT:network-caching=1000
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w59510735.m3u8
+#EXTINF:28,tvg-id="X-TREME" tvg-name="X-TREME" tvg-logo="https://i.downloadatoz.com/upload/android/icon/9/4/5/4a626a104d0917d54e17f05617912fe5.jpg" group-title="TWO BR" - X-TREME
+#EXTVLCOPT:network-caching=1000
+https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/chunklist_w1593577482.m3u8
+#EXTINF:0,SBT SP FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1900
+#EXTINF:0,SBT SP HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2212
+#EXTINF:0,SBT SP 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2211
+#EXTINF:0,SBT SP Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1324
+#EXTINF:0,SBT SP Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1218
+#EXTINF:0,Globo SP FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1949
+#EXTINF:0,Globo SP HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1948
+#EXTINF:0,Globo SP
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1947
+#EXTINF:0,Globo SP FHD²
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/24774
+#EXTINF:0,Globo SP Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2619
+#EXTINF:0,RecordTV SP FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2371
+#EXTINF:0,RecordTV SP HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2206
+#EXTINF:0,RecordTV SP
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1899
+#EXTINF:0,RecordTV SP HD2
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2203
+#EXTINF:0,RecordTV SP2
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2202
+#EXTINF:0,Record TV SP Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1278
+#EXTINF:0,Record TV Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1165
+#EXTINF:0,RecordTV RJ HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2274
+#EXTINF:0,RecordTV RJ
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2275
+#EXTINF:0,RecordTV RJ Alternativo HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/61274
+#EXTINF:0,Band SP FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1878
+#EXTINF:0,Band SP HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2056
+#EXTINF:0,Band SP
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2055
+#EXTINF:0,Band SP Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1268
+#EXTINF:0,Globo News FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1888
+#EXTINF:0,Globo News HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2130
+#EXTINF:0,Globo News
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2129
+#EXTINF:0,Globo News Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1341
+#EXTINF:0,Globo News Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1138
+#EXTINF:0,Band News FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1811
+#EXTINF:0,Band News HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2058
+#EXTINF:0,Band News
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2057
+#EXTINF:0,Band News Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1476
+#EXTINF:0,Band News Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1121
+#EXTINF:0,CNN Brasil FHD 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/22224
+#EXTINF:0,CNN Brasil HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/22225
+#EXTINF:0,CNN Brasil 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/22226
+#EXTINF:0,CNN Brasil Alternativo HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/22345
+#EXTINF:0,CNN Brasil Alternativo 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/22346
+#EXTINF:0,CNN Internacional 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/62368
+#EXTINF:0,CNN Espanhol
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/62369
+#EXTINF:0,Jovem Pan News FHD 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/66549
+#EXTINF:0,Jovem Pan News HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/66550
+#EXTINF:0,Jovem Pan News 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/66548
+#EXTINF:0,Jovem Pan News Alternativo FHD 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/66582
+#EXTINF:0,Jovem Pan News Alternativo HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/66583
+#EXTINF:0,Jovem Pan News Alternativo 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/66584
+#EXTINF:0,Record News FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1861
+#EXTINF:0,Record News HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2205
+#EXTINF:0,Record News
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2204
+#EXTINF:0,Record News Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1475
+#EXTINF:0,Record News Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1166
+#EXTINF:0,SporTV FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2035
+#EXTINF:0,SporTV HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2038
+#EXTINF:0,SporTV
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2218
+#EXTINF:0,SporTV Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1303
+#EXTINF:0,SporTV Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1221
+#EXTINF:0,SporTV 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1917
+#EXTINF:0,SporTV 2 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2036
+#EXTINF:0,SporTV 2
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2219
+#EXTINF:0,SporTV 2 Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1301
+#EXTINF:0,SporTV 2 Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1173
+#EXTINF:0,SporTV 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1918
+#EXTINF:0,SporTV 3 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2037
+#EXTINF:0,SporTV 3
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2220
+#EXTINF:0,SporTV 3 Alternativo  HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1302
+#EXTINF:0,SporTV 3 Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1174
+#EXTINF:0,ESPN 4 FHD 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1887
+#EXTINF:0,ESPN 4 HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2122
+#EXTINF:0,ESPN 4
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2121
+#EXTINF:0,ESPN 4 Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1295
+#EXTINF:0,ESPN 4 Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1136
+#EXTINF:0,ESPN FHD 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1883
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2105
+#EXTINF:0,ESPN
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2104
+#EXTINF:0,ESPN Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1294
+#EXTINF:0,ESPN Alternativo 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1193
+#EXTINF:0,ESPN 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1884
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2108
+#EXTINF:0,Espn 2
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2101
+#EXTINF:0,ESPN 2 Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1311
+#EXTINF:0,ESPN 3 Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1130
+#EXTINF:0,ESPN 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1827
+#EXTINF:0,ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2103
+#EXTINF:0,ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2102
+#EXTINF:0,ESPN 3 Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1293
+#EXTINF:0,ESPN 3 Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1192
+#EXTINF:0,Fox Sports 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1886
+#EXTINF:0,Fox Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2124
+#EXTINF:0,Fox Sports 2
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2123
+#EXTINF:0,FOX Sports 2 Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1314
+#EXTINF:0,Fox Sports 2 Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1135
+#EXTINF:0,ESPN Extra FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1828
+#EXTINF:0,ESPN Extra HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2107
+#EXTINF:0,ESPN Extra
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2106
+#EXTINF:0,ESPN Extra Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1310
+#EXTINF:0,ESPN Extra Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1131
+#EXTINF:0,Combate FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1880
+#EXTINF:0,Combate HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2076
+#EXTINF:0,Combate
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2075
+#EXTINF:0,Combate Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1291
+#EXTINF:0,Combate Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1186
+#EXTINF:0,Band Sports FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1812
+#EXTINF:0,Band Sports HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2060
+#EXTINF:0,Band Sports
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2059
+#EXTINF:0,Band Sports Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1289
+#EXTINF:0,Band Sports Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1180
+#EXTINF:0,Animal Planet FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1808
+#EXTINF:0,Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2050
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2049
+#EXTINF:0,Animal Planet Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1288
+#EXTINF:0,Animal Planet Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1177
+#EXTINF:0,Discovery Channel FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1881
+#EXTINF:0,Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2082
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2081
+#EXTINF:0,Discovery Channel Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1328
+#EXTINF:0,Discovery Channel Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1126
+#EXTINF:0,Discovery Turbo FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1824
+#EXTINF:0,Discovery Turbo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2093
+#EXTINF:0,Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2092
+#EXTINF:0,Discovery Turbo Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1292
+#EXTINF:0,Discovery Turbo Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1129
+#EXTINF:0,Discovery Home&Health FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1820
+#EXTINF:0,Discovery Home&Health HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2086
+#EXTINF:0,Discovery Home&Health
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2085
+#EXTINF:0,Discovery Home & Health Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1127
+#EXTINF:0,HGTV FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1819
+#EXTINF:0,HGTV HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2084
+#EXTINF:0,HGTV 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2083
+#EXTINF:0,HGTV Alternativo HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/46731
+#EXTINF:0,HGTV Alternativo 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/46732
+#EXTINF:0,Investigation Discovery FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1843
+#EXTINF:0,Investigation Discovery HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2152
+#EXTINF:0,Investigation Discovery
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2151
+#EXTINF:0,Investigation Discovery Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1200
+#EXTINF:0,Investigation Discovery Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1320
+#EXTINF:0,Discovery World FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1825
+#EXTINF:0,Discovery World
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2094
+#EXTINF:0,Discovery World Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1309
+#EXTINF:0,Discovery Theater FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1823
+#EXTINF:0,Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2091
+#EXTINF:0,Discovery Theater
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2090
+#EXTINF:0,Discovery Theater Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1286
+#EXTINF:0,Discovery Science FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1822
+#EXTINF:0,Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2089
+#EXTINF:0,Discovery Science Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1335
+#EXTINF:0,History FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1842
+#EXTINF:0,History HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2150
+#EXTINF:0,History
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2149
+#EXTINF:0,History Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1272
+#EXTINF:0,History Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1145
+#EXTINF:0,H2 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1838
+#EXTINF:0,H2 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2138
+#EXTINF:0,H2
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2137
+#EXTINF:0,H2 Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1316
+#EXTINF:0,H2 Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1144
+#EXTINF:0,Nat Geo FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1853
+#EXTINF:0,Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2172
+#EXTINF:0,Nat Geo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2171
+#EXTINF:0,Nat Geo Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1298
+#EXTINF:0,Nat Geo Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1207
+#EXTINF:0,Smithsonian Channel FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1915
+#EXTINF:0,Smithsonian Channel HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2289
+#EXTINF:0,Smithsonian Channel
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2290
+#EXTINF:0,Cartoon Network FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1815
+#EXTINF:0,Cartoon Netowork HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2072
+#EXTINF:0,Cartoon Netowork
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2071
+#EXTINF:0,Cartoon Network Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1332
+#EXTINF:0,Cartoon Network Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1124
+#EXTINF:0,Discovery Kids FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1821
+#EXTINF:0,Discovery Kids HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2088
+#EXTINF:0,Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2087
+#EXTINF:0,Discovery Kids Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1334
+#EXTINF:0,Discovery Kids Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1128
+#EXTINF:0,Disney Channel FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1882
+#EXTINF:0,Disney Channel HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2096
+#EXTINF:0,Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2095
+#EXTINF:0,Disney Channel Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1336
+#EXTINF:0,Disney Channel Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1189
+#EXTINF:0,Boomerang  FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1813
+#EXTINF:0,Boomerang HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2065
+#EXTINF:0,Boomerang
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2064
+#EXTINF:0,Boomerang Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1330
+#EXTINF:0,Boomerang Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1182
+#EXTINF:0,Nickelodeon FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1857
+#EXTINF:0,Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2181
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2180
+#EXTINF:0,Nickelodeon Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1345
+#EXTINF:0,Nickelodeon Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1153
+#EXTINF:0,Nick Jr FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1856
+#EXTINF:0,Nick Jr HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2179
+#EXTINF:0,Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2178
+#EXTINF:0,Nick JR Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1346
+#EXTINF:0,Nick Jr Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1211
+#EXTINF:0,Gloobinho FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1836
+#EXTINF:0,Gloobinho HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2133
+#EXTINF:0,Gloobinho
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2134
+#EXTINF:0,Gloob FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1889
+#EXTINF:0,Gloob HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2132
+#EXTINF:0,Gloob
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2131
+#EXTINF:0,Gloob Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1342
+#EXTINF:0,Gloob Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1139
+#EXTINF:0,TV Ra Tim Bum FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1871
+#EXTINF:0,TV Ra Tim Bum HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2254
+#EXTINF:0,TV Ra Tim Bum
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2253
+#EXTINF:0,TV Ra Tim Bum Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1215
+#EXTINF:0,Baby TV FHD 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/45263
+#EXTINF:0,Baby TV HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/45262
+#EXTINF:0,Baby TV 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1120
+#EXTINF:0,Tooncast HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/45261
+#EXTINF:0,Tooncast
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2245
+#EXTINF:0,Tooncast Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1236
+#EXTINF:0,Zoomoo HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/45260
+#EXTINF:0,Zoomoo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2293
+#EXTINF:0,ZooMoo Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1246
+#EXTINF:0,Cartoonito HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/68895
+#EXTINF:0,Cartoonito 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/68896
+#EXTINF:0,Urban Kids 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/71263
+#EXTINF:0,Box Kids TV
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/83810
+#EXTINF:0,Premiere Clubes FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1898
+#EXTINF:0,Premiere Clubes HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2199
+#EXTINF:0,Premiere Clubes
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2198
+#EXTINF:0,Premiere Clubes Alternativo FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/12820
+#EXTINF:0,Premiere Clubes Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1277
+#EXTINF:0,Premiere Clubes Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1163
+#EXTINF:0,PFC Internacional 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1605
+#EXTINF:0,Premiere 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1892
+#EXTINF:0,Premiere 2 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2187
+#EXTINF:0,Premiere 2 Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1273
+#EXTINF:0,Premiere 2 Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1157
+#EXTINF:0,Premiere 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1893
+#EXTINF:0,Premiere 3 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2189
+#EXTINF:0,Premiere 3
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2188
+#EXTINF:0,Premiere 3 Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1274
+#EXTINF:0,Premiere 3 Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1158
+#EXTINF:0,Premiere 4 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1894
+#EXTINF:0,Premiere 4 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2191
+#EXTINF:0,Premiere 4
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2190
+#EXTINF:0,Premiere 4 Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1275
+#EXTINF:0,Premiere 4 Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1214
+#EXTINF:0,Premiere 5 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1895
+#EXTINF:0,Premiere 5 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2193
+#EXTINF:0,Premiere 5
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2192
+#EXTINF:0,Premiere 5 Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1276
+#EXTINF:0,Premiere 5 Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1159
+#EXTINF:0,Premiere 6 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1896
+#EXTINF:0,Premiere 6 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2195
+#EXTINF:0,Premiere 6
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2194
+#EXTINF:0,Premiere 6 Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/7945
+#EXTINF:0,Premiere 6 Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1160
+#EXTINF:0,Premiere 7 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1897
+#EXTINF:0,Premiere 7 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2197
+#EXTINF:0,Premiere 7
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2196
+#EXTINF:0,Premiere 7 Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/7946
+#EXTINF:0,Premiere 7 Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1161
+#EXTINF:0,Premiere 8
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1162
+#EXTINF:0,Telecine Premium FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1904
+#EXTINF:0,Telecine Premium HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2235
+#EXTINF:0,Telecine Premium
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2234
+#EXTINF:0,Telecine Premium Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1282
+#EXTINF:0,Telecine Premium Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1230
+#EXTINF:0,Telecine Pipoca FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1903
+#EXTINF:0,Telecine Pipoca HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2233
+#EXTINF:0,Telecine Pipoca
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2232
+#EXTINF:0,Telecine Pipoca Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1281
+#EXTINF:0,Telecine Pipoca Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1229
+#EXTINF:0,Telecine Action FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1901
+#EXTINF:0,Telecine Action HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2227
+#EXTINF:0,Telecine Action
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2226
+#EXTINF:0,Telecine Action Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1279
+#EXTINF:0,Telecine Action Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1225
+#EXTINF:0,Telecine Touch FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1905
+#EXTINF:0,Telecine Touch HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2237
+#EXTINF:0,Telecine Touch
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2236
+#EXTINF:0,Telecine Touch Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1326
+#EXTINF:0,Telecine Touch Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1231
+#EXTINF:0,Telecine Fun FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1902
+#EXTINF:0,Telecine Fun HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2231
+#EXTINF:0,Telecine Fun
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2230
+#EXTINF:0,Telecine Fun Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1280
+#EXTINF:0,Telecine Fun Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1227
+#EXTINF:0,Telecine Cult FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1866
+#EXTINF:0,Telecine Cult HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2229
+#EXTINF:0,Telecine Cult
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2228
+#EXTINF:0,Telecine Alternativo Cult HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1347
+#EXTINF:0,Telecine Cult Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1226
+#EXTINF:0,Megapix FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1848
+#EXTINF:0,Megapix HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2164
+#EXTINF:0,Megapix
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2163
+#EXTINF:0,MegaPix Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1321
+#EXTINF:0,MegaPix Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1205
+#EXTINF:0,Syfy FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1864
+#EXTINF:0,Syfy HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2215
+#EXTINF:0,Syfy
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2214
+#EXTINF:0,SyFy Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1267
+#EXTINF:0,Syfy Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1223
+#EXTINF:0,Universal TV FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1872
+#EXTINF:0,Universal TV HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2258
+#EXTINF:0,Universal TV 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2257
+#EXTINF:0,Universal TV Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1327
+#EXTINF:0,Universal TV Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1240
+#EXTINF:0,Canal Brasil FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1908
+#EXTINF:0,Canal Brasil HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2067
+#EXTINF:0,Canal Brasil
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2066
+#EXTINF:0,Canal Brasil Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1331
+#EXTINF:0,Canal Brasil Alternativo 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1123
+#EXTINF:0,HBO FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1891
+#EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2144
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2139
+#EXTINF:0,HBO Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1271
+#EXTINF:0,HBO Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1140
+#EXTINF:0,HBO 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1890
+#EXTINF:0,HBO 2 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2141
+#EXTINF:0,HBO 2
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2140
+#EXTINF:0,HBO 2 Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1405
+#EXTINF:0,HBO 2 Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1141
+#EXTINF:0,HBO Plus FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1840
+#EXTINF:0,HBO Plus HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2146
+#EXTINF:0,HBO Plus
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2145
+#EXTINF:0,HBO Plus Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1318
+#EXTINF:0,HBO Plus Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1142
+#EXTINF:0,HBO Family FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1839
+#EXTINF:0,HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2143
+#EXTINF:0,HBO Family
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2142
+#EXTINF:0,HBO Family Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1317
+#EXTINF:0,HBO Family Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1198
+#EXTINF:0,HBO Signature FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1841
+#EXTINF:0,HBO Signature HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2148
+#EXTINF:0,HBO Signature
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2147
+#EXTINF:0,HBO Signature Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1319
+#EXTINF:0,HBO Signature Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1143
+#EXTINF:0,HBO Mundi FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1845
+#EXTINF:0,HBO Mundi HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2158
+#EXTINF:0,HBO Mundi
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2157
+#EXTINF:0,HBO Mundi Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1477
+#EXTINF:0,HBO Mundi
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1202
+#EXTINF:0,HBO POP FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1847
+#EXTINF:0,HBO POP HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2162
+#EXTINF:0,HBO POP
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2161
+#EXTINF:0,HBO POP Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1478
+#EXTINF:0,HBO POP Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1149
+#EXTINF:0,HBO Xtreme FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1846
+#EXTINF:0,HBO Xtreme HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2160
+#EXTINF:0,HBO Xtreme
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2159
+#EXTINF:0,HBO Xtreme Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1265
+#EXTINF:0,HBO Xtreme Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1203
+#EXTINF:0,AMC
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2047
+#EXTINF:0,AMC Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1176
+#EXTINF:0,AMC Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1329
+#EXTINF:0,AMC FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1807
+#EXTINF:0,AMC HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2048
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2053
+#EXTINF:0,AXN Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1119
+#EXTINF:0,AXN Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1308
+#EXTINF:0,AXN FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1810
+#EXTINF:0,AXN HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2054
+#EXTINF:0,Cinemax
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2073
+#EXTINF:0,Cinemax Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1185
+#EXTINF:0,Cinemax FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1816
+#EXTINF:0,Cinemax HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2074
+#EXTINF:0,Film &amp; Art Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1194
+#EXTINF:0,Film & Arts
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2280
+#EXTINF:0,FX
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2127
+#EXTINF:0,Fx Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1137
+#EXTINF:0,FX Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1315
+#EXTINF:0,FX FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1835
+#EXTINF:0,FX HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2128
+#EXTINF:0,Paramount Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1300
+#EXTINF:0,Paramount Channel
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2184
+#EXTINF:0,Paramount Channel FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1859
+#EXTINF:0,Paramount Channel HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2185
+#EXTINF:0,Sony Channel
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2068
+#EXTINF:0,Sony Channel Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1172
+#EXTINF:0,Sony Channel Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1325
+#EXTINF:0,Sony Channel FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1814
+#EXTINF:0,Sony Channel HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2069
+#EXTINF:0,Space
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2216
+#EXTINF:0,Space Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1220
+#EXTINF:0,Space Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1287
+#EXTINF:0,Space FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1862
+#EXTINF:0,Space HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2217
+#EXTINF:0,Star Channel
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2113
+#EXTINF:0,Star Channel Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1133
+#EXTINF:0,Star Channel Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1313
+#EXTINF:0,Star Channel FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1885
+#EXTINF:0,Star Channel HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2114
+#EXTINF:0,Cinecanal
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2115
+#EXTINF:0,Cinecanal Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1134
+#EXTINF:0,Studio Universal
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2221
+#EXTINF:0,Studio Universal Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1222
+#EXTINF:0,Studio Universal Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1266
+#EXTINF:0,Studio Universal FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1863
+#EXTINF:0,Studio Universal HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2222
+#EXTINF:0,TBS
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2223
+#EXTINF:0,TBS Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1224
+#EXTINF:0,TBS Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1304
+#EXTINF:0,TBS FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1865
+#EXTINF:0,TBS HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2224
+#EXTINF:0,TCM
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2225
+#EXTINF:0,TCM FHD 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47726
+#EXTINF:0,TCM HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47727
+#EXTINF:0,TNT
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2241
+#EXTINF:0,TNT Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1234
+#EXTINF:0,TNT Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1283
+#EXTINF:0,TNT FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1868
+#EXTINF:0,TNT HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2242
+#EXTINF:0,TNT Series
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2243
+#EXTINF:0,TNT Series Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1235
+#EXTINF:0,TNT Series Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1305
+#EXTINF:0,TNT Series FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1869
+#EXTINF:0,TNT Series HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2244
+#EXTINF:0,Warner Channel
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2264
+#EXTINF:0,Warner Channel Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1244
+#EXTINF:0,Warner Channel Alternativo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1284
+#EXTINF:0,Warner Channel FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1874
+#EXTINF:0,Warner Channel HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2265
+#EXTINF:0,Urban Movies 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/71264
+#EXTINF:0,Urban Series
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/71266
+#EXTINF:0,Cine Animação
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/56996
+#EXTINF:0,Cine Aventura & Familia
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/56858
+#EXTINF:0,Cine Brasileiro
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/58710
+#EXTINF:0,Cine Comédia
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/56859
+#EXTINF:0,Cine Dc's Comics Nutella
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/60677
+#EXTINF:0,Cine Dc's Comics Raiz
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/60676
+#EXTINF:0,Cine Drama
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/56780
+#EXTINF:0,Cine Fantasia
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/56781
+#EXTINF:0,Cine Faroeste
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/56761
+#EXTINF:0,Cine Ficção
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/59609
+#EXTINF:0,Cine Policial
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/56773
+#EXTINF:0,Cine Marvel Nutella
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/60679
+#EXTINF:0,Cine Marvel Raiz
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/60678
+#EXTINF:0,Cine Guerra
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/56778
+#EXTINF:0,Cine Religioso
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/56855
+#EXTINF:0,Cine Sky 1
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/40623
+#EXTINF:0,Cine Sky 2
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/40624
+#EXTINF:0,Cine Sky 3
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/40625
+#EXTINF:0,Cine Sky 4
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/40626
+#EXTINF:0,Cine Sky 5
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/40627
+#EXTINF:0,Cine Sky 6
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/40628
+#EXTINF:0,Cine Sky 7
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/40629
+#EXTINF:0,Cine Sky 8
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/40630
+#EXTINF:0,Cine Terror
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/56999
+#EXTINF:0,Cine Romance
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/56568
+#EXTINF:0,Cine Suspense
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/56997
+#EXTINF:0,Rede Vida FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1911
+#EXTINF:0,Rede Vida HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2273
+#EXTINF:0,Rede Vida
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2210
+#EXTINF:0,Rede Vida Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1169
+#EXTINF:0,Canção Nova HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1184
+#EXTINF:0,Canção Nova
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2070
+#EXTINF:0,Novo Tempo HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/21404
+#EXTINF:0,Novo Tempo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1212
+#EXTINF:0,Rede Genesis HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2295
+#EXTINF:0,Rede Genesis 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2292
+#EXTINF:0,Rede Super HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1216
+#EXTINF:0,Rede Super 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1217
+#EXTINF:0,Rede CNT FHD 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/49702
+#EXTINF:0,Rede CNT HD 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/49703
+#EXTINF:0,Rede CNT 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/42753
+#EXTINF:0,Rede 21
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/54456
+#EXTINF:0,Rede Gospel 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/61305
+#EXTINF:0,RIT TV 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/54455
+#EXTINF:0,TV Aparecida
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/2248
+#EXTINF:0,TV Aparecida Alternativo
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/1178
+#EXTINF:0,TV Evangelizar 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/49700
+#EXTINF:0,TV Pai Eterno 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/49701
+#EXTINF:0,TV Recomeçar 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/24291
+#EXTINF:0,TV Gideões
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/68891
+#EXTINF:0,TV Plenitude 
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/68892
+#EXTINF:0,RTP 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47345
+#EXTINF:0,RTP 1 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47346
+#EXTINF:0,RTP 2 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47347
+#EXTINF:0,RTP 3 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47348
+#EXTINF:0,SIC FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47350
+#EXTINF:0,SIC HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47351
+#EXTINF:0,SIC Noticias HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47354
+#EXTINF:0,SIC Caras HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47349
+#EXTINF:0,SIC Mulher HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47353
+#EXTINF:0,SIC Radical FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47355
+#EXTINF:0,TVI FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47382
+#EXTINF:0,TVI HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47383
+#EXTINF:0,CMTV HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47309
+#EXTINF:0,TVI 24 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47380
+#EXTINF:0,TVI Ficção HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47381
+#EXTINF:0,TVI Reality HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47384
+#EXTINF:0,A Bola TV HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47294
+#EXTINF:0,Canal 11 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47306
+#EXTINF:0,SPORT TV + HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47356
+#EXTINF:0,SPORT TV 1 UHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47357
+#EXTINF:0,SPORT TV 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47358
+#EXTINF:0,SPORT TV 1 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47359
+#EXTINF:0,SPORT TV 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47360
+#EXTINF:0,SPORT TV 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47361
+#EXTINF:0,SPORT TV 2 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47362
+#EXTINF:0,SPORT TV 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47363
+#EXTINF:0,SPORT TV 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47364
+#EXTINF:0,SPORT TV 3 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47365
+#EXTINF:0,SPORT TV 4 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47366
+#EXTINF:0,SPORT TV 5 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47367
+#EXTINF:0,SPORT TV NBA HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47368
+#EXTINF:0,BENFICA TV UHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47302
+#EXTINF:0,BENFICA FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47303
+#EXTINF:0,BENFICA TV HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47304
+#EXTINF:0,Sporting TV HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47369
+#EXTINF:0,ELEVEN SPORTS 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47312
+#EXTINF:0,ELEVEN SPORTS 1 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47313
+#EXTINF:0,ELEVEN SPORTS 1 UHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47314
+#EXTINF:0,ELEVEN SPORTS 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47315
+#EXTINF:0,ELEVEN SPORTS 2 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47316
+#EXTINF:0,ELEVEN SPORTS 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47318
+#EXTINF:0,ELEVEN SPORTS 3 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47319
+#EXTINF:0,ELEVEN SPORTS 4 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47320
+#EXTINF:0,ELEVEN SPORTS 5 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47321
+#EXTINF:0,ELEVEN SPORTS 6 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47322
+#EXTINF:0,EUROSPORT 1 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47323
+#EXTINF:0,EUROSPORT 2 HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47324
+#EXTINF:0,TVCINE TOP FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47378
+#EXTINF:0,TVCINE TOP HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47379
+#EXTINF:0,TVCINE EDITION FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47374
+#EXTINF:0,TVCINE EDITION HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47375
+#EXTINF:0,TVCINE EMOTION FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47376
+#EXTINF:0,TVCINE EMOTION HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47377
+#EXTINF:0,TVCINE ACTION FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47372
+#EXTINF:0,TVCINE ACTION HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47373
+#EXTINF:0,AMC HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47295
+#EXTINF:0,AXN FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47296
+#EXTINF:0,AXN HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47297
+#EXTINF:0,AXN Movies FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47298
+#EXTINF:0,AXN Movies HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47299
+#EXTINF:0,AXN White FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47300
+#EXTINF:0,AXN White HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47301
+#EXTINF:0,FOX Comedy HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47325
+#EXTINF:0,FOX Crime FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47326
+#EXTINF:0,FOX Crime HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47327
+#EXTINF:0,FOX FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47328
+#EXTINF:0,FOX HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47329
+#EXTINF:0,FOX LIFE HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47330
+#EXTINF:0,FOX Movies FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47331
+#EXTINF:0,Hollywood FHD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47336
+#EXTINF:0,Hollywood HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47337
+#EXTINF:0,Cinemundo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47308
+#EXTINF:0,NOS Studio HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47342
+#EXTINF:0,SYFY HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47370
+#EXTINF:0,SIC K HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47352
+#EXTINF:0,Casa e Cozinha HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47307
+#EXTINF:0,24 Kitchen HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47293
+#EXTINF:0,E! HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47311
+#EXTINF:0,FUEL TV HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47332
+#EXTINF:0,Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47310
+#EXTINF:0,Historia HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47335
+#EXTINF:0,ID Investigation Discovery HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47338
+#EXTINF:0,National Geografic Wild HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47340
+#EXTINF:0,National Geografic HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47341
+#EXTINF:0,Odisseia HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47343
+#EXTINF:0,Globo HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47333
+#EXTINF:0,Globo Now HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47334
+#EXTINF:0,TV Record HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47371
+#EXTINF:0,Porto Canal HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47344
+#EXTINF:0,AMC Break HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47387
+#EXTINF:0,MTV Portugal HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47339
+#EXTINF:0,ZAP Viva HD
+#EXTVLCOPT:network-caching=1000
+http://dns.acaidopara.net:8080/7FvvfN7CJJ/ZOunQ0jQUW/47385
